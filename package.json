@@ -31,7 +31,7 @@
     }
   },
   "dependencies": {
-    "@nuxt/content": "^1.8.1",
+    "@nuxt/content": "^2.3.0",
     "@nuxtjs/apollo": "^4.0.1-rc.3",
     "@nuxtjs/axios": "^5.12.3",
     "core-js": "^3.8.1",
